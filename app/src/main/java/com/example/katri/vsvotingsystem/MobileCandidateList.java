@@ -35,7 +35,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 import javax.net.ssl.HttpsURLConnection;
-
+///this is comment
 public class MobileCandidateList extends AppCompatActivity {
 
     private ProgressDialog pDialog;
