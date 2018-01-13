@@ -14,6 +14,8 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class AES {
 
+    //this is a test comment
+
     private static final String secret = "_-66$pP6&ZP<mM_jp?";
     private static SecretKeySpec secretKey;
     private static byte[] key;
