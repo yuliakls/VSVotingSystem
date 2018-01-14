@@ -1,9 +1,5 @@
 package com.example.katri.vsvotingsystem;
 
-/**
- * Created by Katri on 06/01/2018.
- */
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -12,6 +8,40 @@ import java.util.TimeZone;
 public class Voting {
 
     private int VoteNum;
+
+    public String getVoteName() {
+        return VoteName;
+    }
+
+    public void setVoteName(String voteName) {
+        VoteName = voteName;
+    }
+
+    public String getVoteDescription() {
+        return VoteDescription;
+    }
+
+    public void setVoteDescription(String voteDescription) {
+        VoteDescription = voteDescription;
+    }
+
+    public Date getStart() {
+        return Start;
+    }
+
+    public void setStart(Date start) {
+        this.Start = start;
+    }
+
+    public Date getFinish() {
+        return Finish;
+    }
+
+    public void setFinish(Date finish) {
+        this.Finish = finish;
+
+    }
+
     private String VoteName;
     private String VoteDescription;
     private Date Start;
@@ -22,8 +52,9 @@ public class Voting {
         this.VoteNum = VoteNum;
         this.VoteName = VoteName;
         this.VoteDescription = VoteDescription;
-        this.Start = Parse(Start);
+        this.Start = Parse( Start );
         this.Finish = Parse(Finish);
+
     }
 
     public static Date Parse( String input ) throws java.text.ParseException {
@@ -60,5 +91,7 @@ public class Voting {
         return result;
 
     }
+
+
 
 }

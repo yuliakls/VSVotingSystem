@@ -1,78 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Yulia\\AndroidStudioProjects\\VSVotingSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Yulia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2b32b49a390699d10cd5aaa9dd4d3c97\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Yulia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5320cc8115bca34f7c34201e295551b9\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Katri\\Downloads\\VSVotingSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Katri\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19328c58e1ca10d6154e473c8bbdc7d\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Katri\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f1fc7c8a298cb9417e9d0b4992685f6e\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Sali\\AndroidStudioProjects\\VSVotingSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sali\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7cb1556ce74f5fd918ff492ca2b31b25\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Sali\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\86ce8c1efc00ad043c8c0d5d11d91601\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sali\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\292a4a29549e8ea2182c11298713250f\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -88,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Sali\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efde7e56a845b14d9f52735f99003a33\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]
